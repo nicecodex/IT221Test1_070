@@ -1,18 +1,18 @@
-<body bgcolor="#000000">
+<body bgcolor="#ff0000">
     <table width="1238" height="530" border="0">
         <tr>
             <td width="23" rowspan="2">&nbsp;</td>
-            <td height="119" colspan="2" bgcolor="#000000">
-                <h1><center><font color="#FFFFFF">พรชัยอพาร์ตเมนต์</font></center></h1>
+            <td height="119" colspan="2" bgcolor="#ff0000">
+                <h1><center><font color="#ff0000">พรชัยอพาร์ตเมนต์</font></center></h1>
                 <?php include "Date.php"; ?>
             </td>
             <td width="43" rowspan="2">&nbsp;</td>
         </tr>
         <tr>
-            <td width="1007" bgcolor="#000000">
+            <td width="1007" bgcolor="#ff0000">
                 <img src="images/map.gif">
             </td>
-            <td width="190" bgcolor="#000000"><ul>
+            <td width="190" bgcolor="#ff0000"><ul>
 				<li><a href="home.php">หน้าแรก</li>
 				<li><a href="room.php">ห้องพัก&ราคา</li>
 				<li><a herf="guest.php">สมุดเยี่ยม</li>
